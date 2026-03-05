@@ -1,8 +1,0 @@
-.container{
-    display: grid;
-    width: 400px;
-    border: 2px solid grey;
-    grid-template-columns: 1fr 1fr 1fr;
-    justify-content: space-evenly;uh
-    align-content: space-evenly;
-}
